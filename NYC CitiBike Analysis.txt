@@ -1,0 +1,8 @@
+This NYC CitiBike study looked at the total ridership data during the months of April - June of 2021.  Two unexpected phenomena was discovered.  Specifically related to the following:
+
+1) Location of highest density of riders
+2) Growth of Member riders
+
+As wiki describes it, Citi Bike is a privately owned public bicycle sharing system which serves New York City's boroughs of the Bronx, Brooklyn, Manhattan, and Queens, in addition to Jersery City, New Jersey.  During the time period of the analysis over 7.9 million rides occurred.  The initial assumption was that the neighboring boroughs and locations around central park would be using the bikes most frequently.  However, the density map clearly showed it was not the case and all of the top starting locations and ending locations were in lower manhattan.  There were a couple of stations near central park; however, a majority were further south.  
+
+The second unexpected phenomena was the significant increase in member ridership over the three month period. There was a continuous increase month-to-month.  There was more than a 2-to-1 ratio when compared to casual riders.  An increase in ridership during the warmer months was anticipated but the continuous growth of new members was unexpected and definitely not at the rate discovered by the data.  It appeared that these may also be workers in the city because the highest volume of daily riders occurred during the evening hours between 4-7pm. 
